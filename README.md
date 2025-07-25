@@ -64,7 +64,8 @@ Admin Panel: http://127.0.0.1:8000/admin/
 
 ## 👨‍💻 Author
 # Md Naimur Rahman
-🎓 Student, Department of Computer Science & Engineering
-🏫 Daffodil International University, Bangladesh
-📧 Email: rahman23105101275@diu.edu.bd
-🔗 LinkedIn: linkedin.com/in/mdnaimurrahman36
+🎓 Student, Department of Computer Science & Engineering <br>
+🏫 Daffodil International University, Saver <br>
+📧 Email: rahman23105101275@diu.edu.bd <br>
+🔗 LinkedIn: linkedin.com/in/mdnaimurrahman36<br>
+---
